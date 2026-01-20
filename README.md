@@ -1,4 +1,4 @@
-# 30分 Vibe Coding チャレンジ - TODO App
+# TODO App
 
 Streamlit を使った TODO アプリのスターターコードです。
 
@@ -13,13 +13,13 @@ cd streamlit-startercode
 
 ## 前提条件
 
-- Python がインストールされていること
+- Python 3.8以降がインストールされていること
 
 ```bash
 python --version
 ```
 
-上記コマンドでバージョンが表示されればOKです。
+上記コマンドで3.8以降のバージョンが表示されればOKです。
 
 ## 環境構築
 
